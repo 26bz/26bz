@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Virtue Host](https://virtue-host.com/)
 
-- 👨‍💻 All of my projects are available at [https://virtue-host.com/](https://virtue-host.com/)
-
-- 💬 Ask me about **Minecraft, Websites, Games.**
+- 👨‍💻 All of my attention is currently at [https://virtue-host.com/](https://virtue-host.com/)
 
 - ⚡ Fun fact **Minecraft Since 2009.**
 
