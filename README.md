@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Virtue Host](https://virtue-host.com/)
 
-- 👨‍💻 All of my attention is currently at [https://virtue-host.com/](https://virtue-host.com/)
-
 - ⚡ Fun fact **Minecraft Since 2009.**
 
 <h3 align="left">Connect with me:</h3>
